@@ -1,4 +1,4 @@
-FROM ubuntu_v1.0
+FROM ubuntu_apache2
 MAINTAINER frank
 
 #Auto Start Apache2 Service
